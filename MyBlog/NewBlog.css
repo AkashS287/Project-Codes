@@ -1,0 +1,101 @@
+.fa-instagram{
+    color: purple;
+   
+}
+.fa-facebook{
+    color: blue;
+    
+}
+.fa-google{
+    color:#800000;
+}
+.link-1{
+    height: 60px;
+    width: 60px;
+    background-color: blanchedalmond;
+    border-radius: 50px;
+    line-height: 10px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 1px 4px 4px 4px #C71585 ;
+}
+.a i{
+    transition: all 0.8 linear;
+}
+a:hover i{
+    transform: scale(1.1);
+}
+.link-2{
+    height: 60px;
+    width: 60px;
+    background-color: blanchedalmond;
+    border-radius: 50px;
+    line-height: 10px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 1px 4px 4px 4px #800000 ;
+}
+.link-3{
+    height: 60px;
+    width: 60px;
+    background-color:blanchedalmond;
+    border-radius:50px;
+    line-height: 10px;
+    text-align: center;
+    margin: 10px;
+    box-shadow:1px 4px 4px 4px #000080;
+}
+.bg{
+    background-image: url(mountain.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    height: 620px;
+    background-size: cover;
+
+}
+.bg div{
+    padding: 1%;
+    background:transparent;
+    text-align: center;
+    color: #000000;
+
+}
+.link-5{
+    background: transparent;
+    background-size: contain;
+}
+
+.link-5 img{
+    transition: all 0.8 linear;
+}
+
+.link-5:hover img{
+    transform: scale(1.1);
+}
+
+.link-6{
+    background: transparent;
+    background-size: contain;
+}
+
+.link-6 img{
+    transition: all 0.8 linear;
+}
+
+.link-6:hover img{
+    transform: scale(1.1);
+}
+
+.link-7{
+    background: transparent;
+    background-size: contain;
+}
+
+.link-7 img{
+    transition: all 0.8 linear;
+}
+
+.link-7:hover img{
+    transform: scale(1.1);
+}
