@@ -43,8 +43,9 @@ section .bottom-img{
  }
 #footer{
     background-image: linear-gradient(to right,#ffffff,#e3eaec );
-    width: 100%;
+    max-width: 100%;
     color: #B2497E;
+    display: inline-table;
 }
 #footer p{
     font-size: 36px;
@@ -74,26 +75,33 @@ footer img{
 #container-body{
     background-image: linear-gradient(to right,#e931a6, #FF96CA);
     width: 100%;
+    display:inline-table
 }
 #container-body1{
     background-image: linear-gradient(to right,#e931a6, #FF96CA);
     width: 100%;
+    display:inline-table
 }
 #container-body2{
     background-image: linear-gradient(to right,#e931a6, #FF96CA);
     width: 100%;
+    display: inline-table;
 }
 #container-body3{
     background-image: linear-gradient(to right,#e931a6, #FF96CA);
     width: 100%;
+    display:inline-table
 }
 #container-body4{
     background-image: linear-gradient(to right,#e931a6, #FF96CA);
     width: 100%;
+    display: inline-table;
 }
 #footer1{
     background-image: linear-gradient(to right,#e931a6, #FF96CA);
     color: #ffffff;
+    max-width: 100%;
+    display: inline-table;
 }
 .footer-img{
     width: 100%;
